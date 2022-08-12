@@ -1,5 +1,5 @@
 {
-    "name": "Kanna BOT",
+    "name": "слуга BOT",
     "version": "2.10.18",
     "description": "RPG WhatsApp BOT",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BochilGaming/games-wabot",
+    "homepage": "https://github.com/Botaktif/games-wabot",
     "author": {
-        "name": "BochilGaming"
+        "name": "слуга"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BochilGaming/games-wabot.git"
+        "url": "git+https://github.com/Botaktif/games-wabot.git"
     },
     "bugs": {
-        "url": "https://github.com/BochilGaming/games-wabot/issues"
+        "url": "https://github.com/Botaktif/games-wabot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
